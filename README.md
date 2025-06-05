@@ -1,5 +1,5 @@
-# SkibidiOhioRizzCord
-Most sigma Discord Client in World
+# SkibidiOhioRizzC
+Most sigma Discord Client in World, If your watch don't support eSIM. You need use SORCord Helper or SORConnect with Vendetta to use 
 
 **Your token is guaranteed to be leaked. We do not encrypt the token, please do not use this client on your personal account.**
 
